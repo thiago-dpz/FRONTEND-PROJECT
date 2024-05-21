@@ -5,7 +5,7 @@ This is my frontend project for the Full Stack Web development course that I'm t
 ## Conteúdo
 
 - [Uso](#uso)
-  - [Instalar Depencencias](#instalar-dependencias)
+  - [Instalar Dependências](#instalar-dependências)
   - [Run CRA](#run-CRA)
 - [Geral](#geral)
   - [Contexto](#contexto)
@@ -20,7 +20,7 @@ This is my frontend project for the Full Stack Web development course that I'm t
 
 Como iniciar o projeto:
 
-### Instalar Dependencias
+### Instalar Dependências
 
 `npm install`
 
@@ -36,40 +36,30 @@ A app será executada em: http://localhost:3000
 
 Frontend project for my course at [FLAG](https://https://flag.pt/curso/full-stack-web-developer).
 
-Requirements for the project:
-- Use of React.
-- Use at least 2 hooks.
-- Build a CRUD.
-- Use an external or dummy API.
-- Good HTML semantics and CSS styling.
-- Implement a route system.
-- A simple form with validation.
-- Its a plus to implement a state managment but not mandatory
+Requisitos do projeto:
+- Uso de React;
+- Pelo menos 2 hooks,
+- Elaborar um CRUD;
+- Uso de API externa ou dummy;
+- Boa semântica de HTML e CSS adequado;
+- Utilização de rotas;
+- Um simples formulário de validação;
+- State managemente (extra positivo, opcional). 
   
 
 ### Desafio
 
-The client its a company that organize motorcycle events around the globe.
-The request is to build a platform where potential users can learn about the company, the team, about the packages available to purchase, the events available to entry, and also to be a platform where the company can publish post about the previous events and articles about the motorcycle adventure world.
-The platform has to be modern and pleasant to the majority of the profiles.
+O cliente é um centro de pesquisa e divulgação científica focado em serpentes. 
+O solicitado foi uma plataforma que o público possa acessar afim de obter informações sobre estes animais, suas famílias e várias espécies e subespécies. A plataforma deve ter um design simples porém elegante, de interação dinâmica e fácil entendimento para pessoas de qualquer escolaridade. 
 
 
 ### Produto Final
 
-A react multipage application with:
+Uma app React semi-SP(Single-page) com:
 
-- Homepage: Containing sections about all key topics, as a preview, and with navigation to target topics. Also contains a testimonials section.
+- Homepage: Contendo seções com as principais informações sobre a instituição e a plataforma, como serviços prestados, espécies de serpentes mais procuradas, formulário de inscrição em Newsletter, apresentação do trabalho e como ele é feito. Conta também com uma seção Testimonials, exibindo organizações pelas quais o centro de pesquisa é reconhecido. As seções são navegáveis de forma dinâmica através de um menu na Navbar e botões no Header.
   
-- About page: Contains the history and description of the company, a carousel with the statistics of the company, and a grid with the team. Each grid item has navigation to a page about the team member.
-  
-- Events page: Contains an introduction about the events, a section with the packages availables, and a section with the next events. Each event nagitaves to the respective page, where the users can learn more about each event, and with a call to action in the end.
-
-- Blog page: Containes and introduction about the blog as the content, and a section with all the posts. Each post has navigation to target page, where the user can read about the content.
-
-- Contact page: Contain steps on how to entry in a event, and a FAQ section with the most common questions. It also contains a grid with images, acting as a final CTA before the contact form.
-
-- Added features like Dark/Light theme, outlets, sliders, accordions, animations and more to make the platform modern and pleasant to everybody.
-  
+- About page: Contendo conteúdo informátivo sobre o propósito do centro de pesquisa e uma Weather API com base em localização aproximada.
 
 ### Screenhot
 
