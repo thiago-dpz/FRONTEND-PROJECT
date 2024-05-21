@@ -12,7 +12,8 @@ This is my frontend project for the Full Stack Web development course that I'm t
   - [Desafio](#desafio)
   - [Produto Final](#produto-final) -[Screenshot](#screenshot)
 - [Processo](#processo)
-  - [Feito com](#feito-com) -[Technics and Tools](#technics-and-tools)
+  - [Feito com](#feito-com)
+  - [Technics and Tools](#technics-and-tools)
 - [Improvements and Future](#imporvements-and-future)
 
 ## Uso
