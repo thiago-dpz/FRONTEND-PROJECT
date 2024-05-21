@@ -33,7 +33,7 @@ A app será executada em: http://localhost:3000
 
 ### Contexto
 
-Frontend project for my course at [FLAG](https://https://flag.pt/curso/full-stack-web-developer).
+Projeto proposto pelo meu curso [FLAG](https://flag.pt/curso/full-stack-web-developer).
 
 Requisitos do projeto:
 - Uso de React (✔); 
@@ -87,5 +87,5 @@ Dependências utilizadas
 - Incrementar um CRUD;
 - Incrementar uma API mais robusta e alinhada com a ideia do projeto;
 - Trabalhar novos componentes, a fim de tornar a app um verdadeiro banco de dados sobre serpentes;
-- Melhorar o design, estilos, layout como um todo;
+- Melhorar o design, estilos, layout como um todo, inclusive uso de animações;
 - Se possível, alinhar o projeto com os conhecimentos obtidos nos meses restantes do curso, focando em back-end.
