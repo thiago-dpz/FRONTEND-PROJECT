@@ -11,7 +11,8 @@ This is my frontend project for the Full Stack Web development course that I'm t
   - [Contexto](#contexto)
   - [Desafio](#desafio)
   - [Produto Final](#produto-final) -[Screenshot](#screenshot)
-- [Processo](#processo) -[Feito com](#feito-com) -[Technics and Tools](#technics-and-tools)
+- [Processo](#processo)
+  - [Feito com](#feito-com) -[Technics and Tools](#technics-and-tools)
 - [Improvements and Future](#imporvements-and-future)
 
 ## Uso
@@ -75,7 +76,7 @@ A react multipage application with:
 
 ## Process
 
-### Built with
+### Feito com
 
 - Semantic HTML5 markup
 - CSS
