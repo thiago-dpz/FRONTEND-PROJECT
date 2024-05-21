@@ -71,7 +71,7 @@ A react multipage application with:
 
 ### Screenhot
 
-![]([../meu_projeto/src/assets/images/screenshot.png](https://github.com/thiago-dpz/FRONTEND-PROJECT/blob/main/src/assets/images/screenshot.png))
+![](src/assets/images/screenshot.png)
 
 ## Process
 
