@@ -13,8 +13,7 @@ Meu projeto front-end, feito com o objetivo de aplicar na prática o conheciment
   - [Produto Final](#produto-final) -[Screenshot](#screenshot)
 - [Processo](#processo)
   - [Feito com](#feito-com)
-  - [Technics and Tools](#technics-and-tools)
-- [Improvements and Future](#imporvements-and-future)
+- [Melhorias e Futuro](#melhorias-e-future)
 
 ## Uso
 
